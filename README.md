@@ -7,6 +7,7 @@ and locks your screen. Uses
 # Instructions
 ## Dependencies
 * `python` 3.x
+* An AWS IAM user authorised to perform Rekognition:CompareFaces
 
 ## Usage
 1. Place a picture of yourself in `images/me.png`

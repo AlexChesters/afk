@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from take_picture import take_picture
-from face_detector import count_faces, compare_faces
+from compare_faces import compare_faces
 from lock_screen import lock_screen
 
 while True:

@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from take_picture import take_picture
 from compare_faces import compare_faces
 from lock_screen import lock_screen
